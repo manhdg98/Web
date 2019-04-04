@@ -1,0 +1,188 @@
+
+body { 
+	margin: 0px;
+}
+/*Start Header*/
+.header {
+	background: #eb9019;
+	width: 100%;
+	padding: 10px;
+}
+
+.header-content {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.header-content i,span {
+	margin-right:  10px;
+	color: white;
+}
+/*End Header*/
+
+/*Start Menu*/
+.menu-content {
+	float: left;
+	padding-top : 10px; 
+}
+
+.menu img {
+	max-width: 100%;
+}
+.menu-contentbao {
+	max-width: 80%;
+	margin: 0 auto;  
+}
+
+.menu-30 {
+ 	max-width: 25%;
+}
+
+.menu-50 {
+ 	max-width: 60%;
+}
+
+.menu-20 {
+ 	max-width: 15%;
+ }
+
+.menu-50 ul {
+	list-style-type: none;
+}
+
+.menu-50 li {
+	display: inline-table;
+	padding-right: 20px;
+}
+
+.menu-50 a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.menu-content-icon {
+	float: left;
+	width: 30px;
+	height: 30px;
+	background: #ccc;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	--border-radius: 15px;
+	border-radius: 15px;
+	margin-right:  10px;
+
+}
+.menu-20 {
+	padding-top: 18px;
+}
+
+.menu-content-icon i {
+	padding-top: 8px;
+	margin-left: 5px;
+	color: white;
+}
+
+.sao {
+	background: blue;
+}
+
+.tim {
+	background: #13e3e5;
+}
+
+.moccau {
+	background: #e517a9;
+}
+.clear {
+	clear: both;
+}
+
+/*End Menu*/
+
+/*Start Phần 3*/
+.phan3 {
+	background-image: url(images/banner-2.jpg);
+	background-position: center;
+	width: 100%;
+	height: 550px;
+}
+
+.back {
+		max-width: 100%; letter-spacing: ;
+}
+
+.phan3-content {
+	width: 80%;
+	padding-top: 20%; 
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+}
+
+.phan3-content i {
+	padding-top: 20px;
+	color: #e55117;
+	padding-right: 20px;
+}
+
+.dot {
+	padding-top: 5%;
+}
+
+.dot i {
+	font-size: 10px;
+}
+
+#icon-trang {
+	color:  white;					
+}
+						
+			
+/*End Phần 3*/
+
+
+/*Start Phần 4*/
+
+.phan42 i {
+ 	color: blue;
+ 	font-size: 40px;
+}
+
+.phan4 {
+	width: 100%;
+	padding-top: 4%; 
+}
+
+.phan-4 {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.phan41 {
+	text-align: center;
+}
+
+.phan41-1 {
+	letter-spacing: 4px;
+	color: #e55117;
+}
+
+.phan42 {
+	width: 100%;
+	padding-top: 4%;
+
+}
+
+.item-1 {
+	width: 25%; float: left;
+	text-align: center;
+
+}
+
+.item-11 {
+	 color:#e55117;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+/*End Phần 4*/
